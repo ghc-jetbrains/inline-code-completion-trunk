@@ -6,5 +6,5 @@ public class Tests1 {
         System.out.println("Hello, World!");
     }
 
-    // Get max from an int array
+    //
 }
