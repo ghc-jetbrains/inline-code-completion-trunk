@@ -8,8 +8,8 @@ public class Comparator {
     }
 
     // Get min number from 2 parameters called int a, int b and with method called getMinNumber
-    public int
+    public int getMinNumber
 
     // Get min number from 3 parameters int a, int b, int c called getMinFromThreeNumbers
-    public int getMinFromThree
+    public int getMinFromThreeNumbers
 }
