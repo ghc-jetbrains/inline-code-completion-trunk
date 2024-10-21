@@ -8,5 +8,6 @@ public class Bard {
 
     // Return a story to tell the story of the Bard
     public String tellFakeOrRealStories() {
+        return 
     }
 }
