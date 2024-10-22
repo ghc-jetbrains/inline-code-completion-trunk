@@ -7,9 +7,5 @@ public class Comparator {
         return (n > m) ? n : m;
     }
 
-    // Get min number from 2 parameters called int a, int b and with method called getMinNumber
     public int getMinNumber
-
-    // Get min number from 3 parameters int a, int b, int c called getMinFromThreeNumbers
-    public int getMinFromThreeNumbers
 }
