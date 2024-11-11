@@ -1,6 +1,6 @@
 package com.exmaple;
 
-public class CodeCompletionUitestComparator {
+public class CodeCompletionUiTestComparator {
 
     // Get max number from an int array
     public int getMax(int n, int m) {
